@@ -24,29 +24,6 @@ This repository contains two web projects: *Car Wale, a platform for buying and 
 
 #### [Car Wale Live Demo](https://carwale-web.netlify.app)
 
-### House Com
-
-*House Com* is a property listing website where users can browse, search, and view details about properties.
-
-#### Key Features:
-- *Property Listings*: Browse various properties with detailed information.
-- *Search Properties*: Filter properties based on user criteria.
-- *Responsive UI*: Optimized for all devices.
-- *User Authentication*: Login and register functionality for users.
-
-#### Project Structure:
-- home.html: Landing page
-- listings.html: List of available properties
-- view_property.html to view_property5.html: Individual property details
-- login.html & register.html: User authentication pages
-- search.html: Property search page
-- about.html: About us page
-- contact.html: Contact page
-- js/: JavaScript files
-- css/: CSS files
-
-#### [House Com Live Demo](https://housing-web.netlify.app)
-
 ## Screenshots
 
 ### Car Wale
