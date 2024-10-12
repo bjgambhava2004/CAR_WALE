@@ -33,3 +33,28 @@ This repository contains two web projects: *Car Wale, a platform for buying and 
 - *Search Properties*: Filter properties based on user criteria.
 - *Responsive UI*: Optimized for all devices.
 - *User Authentication*: Login and register functionality for users.
+
+#### Project Structure:
+- home.html: Landing page
+- listings.html: List of available properties
+- view_property.html to view_property5.html: Individual property details
+- login.html & register.html: User authentication pages
+- search.html: Property search page
+- about.html: About us page
+- contact.html: Contact page
+- js/: JavaScript files
+- css/: CSS files
+
+#### [House Com Live Demo](https://housing-web.netlify.app)
+
+## Screenshots
+
+### Car Wale
+<p align="center">
+  <img src="https://github.com/kushpatel16112/web_devlopment/blob/master/CAR_WALE/Images/Car_Wale_1.png" width="1200" style="border: 2px solid black; margin-bottom: 20px;"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/kushpatel16112/web_devlopment/blob/master/CAR_WALE/Images/Car_Wale_2.png" width="600" />
+  <img src="https://github.com/kushpatel16112/web_devlopment/blob/master/CAR_WALE/Images/Car_Wale_3.png" width="600"/>
+</p>
